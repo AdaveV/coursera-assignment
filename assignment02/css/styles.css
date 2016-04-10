@@ -1,0 +1,16 @@
+#MenuButton{
+    float:right;    
+}
+.navbar-header{
+  width:100%;
+}
+.right-side-button{
+  float:right;
+  padding-top: 15px;
+  padding-right: 5px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+.left-side-header{
+  float:left;
+}
