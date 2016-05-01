@@ -14,3 +14,13 @@
 .left-side-header{
   float:left;
 }
+li{
+  background-color: yellow;
+}
+#menutext{
+  background-color: cyan;
+}
+.container-fluid {
+margin-right: 5px;
+margin-left: 5px;
+	}
