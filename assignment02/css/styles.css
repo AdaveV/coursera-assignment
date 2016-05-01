@@ -16,6 +16,10 @@
 }
 li{
   background-color: yellow;
+  text-align: center;
+}
+li:hover{
+  background-color: pink;
 }
 #menutext{
   background-color: cyan;
